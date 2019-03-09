@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>npx create-react-blog</title>
+        <title>Beautiful days ahead</title>
         <link>/</link>
-        <description>A clone of Dan Abramov&apos;s overreacted.io using create-react-app-mdx and Navi</description>
-        <lastBuildDate>Sat, 09 Mar 2019 17:30:24 GMT</lastBuildDate>
+        <description>A personal blog</description>
+        <lastBuildDate>Sat, 09 Mar 2019 17:42:14 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
