@@ -19,6 +19,7 @@ register({
   // be called when performing static generation.
   async main() {
     let navigation = Navi.createBrowserNavigation({ routes });
+    console.log(routes)
 
     // Wait until the navigation has loaded the page's content, or failed to do
     // so. If you want to load other data in parallel while the initial page is

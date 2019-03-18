@@ -15,5 +15,6 @@
 }
 .title > a {
   color: var(--primary-color-light);
+  color:rgb(99, 146, 234);
   text-decoration: none;
 }
