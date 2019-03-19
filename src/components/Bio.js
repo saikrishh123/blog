@@ -15,7 +15,7 @@ function Bio(props) {
     `}>
       <img src={photoURL} alt="Me" />
       <p>
-        Silence isn't empty. Its full of answers
+        Silence isn't empty, it's full of answers - Vignesh Venkata Krishnan. 
       </p>
     </div>
   )
