@@ -13,7 +13,7 @@ function Bio(props) {
       ${styles.Bio}
       ${props.className || ''}
     `}>
-      <img src={photoURL} alt="Me" />
+      <img src="./logo.PNG" alt="Me" width="10000" height="6000"/>
       <p>
         Silence isn't empty, it's full of answers - Vignesh Venkata Krishnan (Motivational Speaker, Philanthrophist and Humanist #Sustainable ). 
       </p>
