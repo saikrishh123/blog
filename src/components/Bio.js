@@ -15,7 +15,7 @@ function Bio(props) {
     `}>
       <img src="./logo.PNG" alt="Me" width="10000" height="6000"/>
       <p>
-        Silence isn't empty, it's full of answers - Vignesh Venkata Krishnan (Motivational Speaker, Philanthrophist and Humanist #Sustainable ). 
+        Silence isn't empty, it's full of answers - Narendra Jugnu during his chess games.  
       </p>
     </div>
   )
